@@ -1,5 +1,5 @@
 #contacts {
     font-size: large;
-    display: flex;
+    display: block;
     justify-content: space-between;
 }
