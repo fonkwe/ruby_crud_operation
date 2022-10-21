@@ -1,5 +1,6 @@
-#contacts {
-    font-size: large;
+#contacts{
+    display: flex;
+}
+#para{
     display: block;
-    justify-content: space-between;
 }
